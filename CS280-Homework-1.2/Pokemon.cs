@@ -8,7 +8,7 @@ namespace CS280_Homework_1._2
 {
     public class Pokemon
     {
-        public string Number;
+        public string NationalNo;
         public string Name;
         public float Height;
         public float Weight;
